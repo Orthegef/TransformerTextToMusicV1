@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformerTextToMusic", "TransformerTextToMusic.csproj", "{8009F5EB-B5CD-4B84-9520-8C972EDFFEAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8009F5EB-B5CD-4B84-9520-8C972EDFFEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8009F5EB-B5CD-4B84-9520-8C972EDFFEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8009F5EB-B5CD-4B84-9520-8C972EDFFEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8009F5EB-B5CD-4B84-9520-8C972EDFFEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7086AA38-BED7-4FF2-A600-E54C060054C3}
+	EndGlobalSection
+EndGlobal

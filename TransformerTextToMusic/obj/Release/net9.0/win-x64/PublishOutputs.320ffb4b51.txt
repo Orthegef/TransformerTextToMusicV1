@@ -1,0 +1,2 @@
+E:\Programming\C#\TransformerTextToMusic\bin\Publish\TransformerTextToMusic.pdb
+E:\Programming\C#\TransformerTextToMusic\bin\Publish\TransformerTextToMusic.exe
